@@ -1,0 +1,2 @@
+include ':app', ':gscarrier'
+rootProject.name='NetCall'
